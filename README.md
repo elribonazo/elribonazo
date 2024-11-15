@@ -4,7 +4,7 @@
 
 I'm passionate about self-sovereign identity and open-source projects in the digital identity space. My main focus areas include:
 
-- 🔐 Hyperledger Indy ecosystem
+- 🔐 Hyperledger Identus ecosystem
 - 💻 Cross-platform Identity SDKs
 - 🛡️ Secure Cryptography
 - 🌐 Peer-to-Peer Networking
